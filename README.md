@@ -1,2 +1,2 @@
 # genomeTools
-genome related tools
+Genome assembly,analyses scripts
